@@ -57,7 +57,7 @@ if(this.state.hasLoadedJoke===false && this.state.hasPressedButton===true){
   loaded=<h2 style={{color:"green"}}>Loading...</h2>
 }
   return (
-    <BrowserRouter>
+  
     <div className="App">
         <header className="App-header">
       <h1 className="randomgen">Random Joke/Roast/Humour/Meme Templates!</h1>
@@ -82,7 +82,7 @@ if(this.state.hasLoadedJoke===false && this.state.hasPressedButton===true){
     <h2 style={{color:"#544a7d"}}> Check out my Movie Search App: <a href="https://souritrakar.github.io/movieappfinal/">Movie App</a></h2>
         </header>
     </div>
-    </BrowserRouter>
+  
   );
 }
 }

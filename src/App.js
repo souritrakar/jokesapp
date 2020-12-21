@@ -16,10 +16,10 @@ class App extends React.Component {
 
   return (
     
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+ 
     <div className="App">
       
-    
+      <BrowserRouter>
 
 
     <Route exact path="/jokesapp" component={Home}>
@@ -31,12 +31,12 @@ class App extends React.Component {
     
 
 
-
+      </BrowserRouter>
 
     </div>
 
      
-    </BrowserRouter>
+    
  
   );
 }

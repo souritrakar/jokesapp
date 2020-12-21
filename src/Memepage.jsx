@@ -24,7 +24,7 @@ export default class Memepage extends React.Component{
     render(){
       var hovertimes=0
         return(
-          <BrowserRouter>
+         
             <header className="darkmode">
      <h1 className="randomgen"> Meme Templates!</h1>
      <img className="jokepic" src={jokepic} alt="jokepic"/>
@@ -46,7 +46,7 @@ export default class Memepage extends React.Component{
 
   <h1 style={{color:"#F37335"}}>© Souritra Kar 2020</h1>
       </header>
-      </BrowserRouter>
+   
         )
     }
 }

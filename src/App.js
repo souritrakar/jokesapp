@@ -22,7 +22,7 @@ class App extends React.Component {
     
 
 
-    <Route exact path="/" component={Home}>
+    <Route exact path="/jokesapp" component={Home}>
    
     </Route>
       <Route path="/meme-templates" component={Memepage}/>

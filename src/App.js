@@ -22,10 +22,10 @@ class App extends React.Component {
       <BrowserRouter>
 
 
-    <Route exact path="/jokesapp" component={Home}>
+    <Route exact path="/jokesapp" component={Home}/>
    
-    </Route>
-      <Route path="/meme-templates" component={Memepage}/>
+  
+      <Route  exact path="/meme-templates" component={Memepage}/>
 
 
     

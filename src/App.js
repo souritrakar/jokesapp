@@ -20,12 +20,13 @@ class App extends React.Component {
     <div className="App">
       
       <BrowserRouter>
-
+<Switch >
 
     <Route exact path="/jokesapp" component={Home}/>
    
   
       <Route  exact path="/memetemplates" component={Memepage}/>
+      </Switch>
 
 
     

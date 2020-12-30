@@ -3,7 +3,7 @@ import './App.css';
 import React from "react"
 import jokepic from "./logopic.png"
 import Joke from "./Joke"
-import {BrowserRouter as Router,Link,Route,Switch,Redirect, BrowserRouter} from "react-router-dom"
+import {BrowserRouter,Link,Route,Switch,Redirect,} from "react-router-dom"
 import Home from "./Home"
 
 
@@ -25,7 +25,7 @@ class App extends React.Component {
     <Route exact path="/jokesapp" component={Home}/>
    
   
-      <Route  exact path="/meme-templates" component={Memepage}/>
+      <Route  exact path="/meme-emplates" component={Memepage}/>
 
 
     

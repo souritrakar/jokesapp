@@ -15,11 +15,11 @@ class App extends React.Component {
 
 
   return (
-    
+    <BrowserRouter>
  
     <div className="App">
       
-      <BrowserRouter>
+     
 <Switch >
 
     <Route exact path="/jokesapp" component={Home}/>
@@ -32,9 +32,10 @@ class App extends React.Component {
     
 
 
-      </BrowserRouter>
+   
 
     </div>
+    </BrowserRouter>
 
      
     

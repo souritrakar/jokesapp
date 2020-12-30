@@ -25,7 +25,7 @@ class App extends React.Component {
     <Route exact path="/jokesapp" component={Home}/>
    
   
-      <Route  exact path="/memetemplates" component={Memepage}/>
+      <Route   path="/memetemplates" component={Memepage}/>
       </Switch>
 
 

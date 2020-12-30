@@ -66,7 +66,7 @@ if(this.state.hasLoadedJoke===false && this.state.hasPressedButton===true){
  
     <h3 style={{color:"red"}}>Mode: {this.state.mode}</h3>
     <br></br>
-    <div class="button_cont" align="center"><NavLink to="/memetemplates" target="_blank" ><a class="example_a" rel="nofollow noopener">MEME TEMPLATES</a></NavLink></div>
+    <div class="button_cont" align="center"><NavLink to="/memetemplates/" target="_blank" ><a class="example_a" rel="nofollow noopener">MEME TEMPLATES</a></NavLink></div>
 <br></br>
 
     <div  onClick={()=>{this.fetchApi()}}class="button_cont" align="center"><a class="example_a" rel="nofollow noopener">GENERATE JOKE</a></div>

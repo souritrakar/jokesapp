@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/jokesapp/static/css/main.dd387162.chunk.css",
-    "main.js": "/jokesapp/static/js/main.47de690e.chunk.js",
-    "main.js.map": "/jokesapp/static/js/main.47de690e.chunk.js.map",
+    "main.js": "/jokesapp/static/js/main.9d62f1e3.chunk.js",
+    "main.js.map": "/jokesapp/static/js/main.9d62f1e3.chunk.js.map",
     "runtime-main.js": "/jokesapp/static/js/runtime-main.d8927ab5.js",
     "runtime-main.js.map": "/jokesapp/static/js/runtime-main.d8927ab5.js.map",
-    "static/js/2.a97235b3.chunk.js": "/jokesapp/static/js/2.a97235b3.chunk.js",
-    "static/js/2.a97235b3.chunk.js.map": "/jokesapp/static/js/2.a97235b3.chunk.js.map",
+    "static/js/2.b943de5a.chunk.js": "/jokesapp/static/js/2.b943de5a.chunk.js",
+    "static/js/2.b943de5a.chunk.js.map": "/jokesapp/static/js/2.b943de5a.chunk.js.map",
     "static/js/3.66623013.chunk.js": "/jokesapp/static/js/3.66623013.chunk.js",
     "static/js/3.66623013.chunk.js.map": "/jokesapp/static/js/3.66623013.chunk.js.map",
     "index.html": "/jokesapp/index.html",
     "static/css/main.dd387162.chunk.css.map": "/jokesapp/static/css/main.dd387162.chunk.css.map",
-    "static/js/2.a97235b3.chunk.js.LICENSE.txt": "/jokesapp/static/js/2.a97235b3.chunk.js.LICENSE.txt",
+    "static/js/2.b943de5a.chunk.js.LICENSE.txt": "/jokesapp/static/js/2.b943de5a.chunk.js.LICENSE.txt",
     "static/media/logopic.39bae7cc.png": "/jokesapp/static/media/logopic.39bae7cc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d8927ab5.js",
-    "static/js/2.a97235b3.chunk.js",
+    "static/js/2.b943de5a.chunk.js",
     "static/css/main.dd387162.chunk.css",
-    "static/js/main.47de690e.chunk.js"
+    "static/js/main.9d62f1e3.chunk.js"
   ]
 }

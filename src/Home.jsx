@@ -66,7 +66,7 @@ if(this.state.hasLoadedJoke===false && this.state.hasPressedButton===true){
  
     <h3 style={{color:"red"}}>Mode: {this.state.mode}</h3>
     <br></br>
-    <div class="button_cont" align="center"><NavLink to="/memetemplates/" target="_blank" ><a class="example_a" rel="nofollow noopener">MEME TEMPLATES</a></NavLink></div>
+    <div class="button_cont" align="center"><NavLink to="/jokesapp/memetemplates/" target="_blank" ><a class="example_a" rel="nofollow noopener">MEME TEMPLATES</a></NavLink></div>
 <br></br>
 
     <div  onClick={()=>{this.fetchApi()}}class="button_cont" align="center"><a class="example_a" rel="nofollow noopener">GENERATE JOKE</a></div>
@@ -78,8 +78,7 @@ if(this.state.hasLoadedJoke===false && this.state.hasPressedButton===true){
       )
     }
     <h1 style={{color:"#F37335"}}>© Souritra Kar 2020</h1>
-    <h2 style={{color:"green"}}> Check out my Quotes App: <a href="http://souritrakar.github.io/quotesapp">Quotes App</a></h2>
-    <h2 style={{color:"#544a7d"}}> Check out my Movie Search App: <a href="https://souritrakar.github.io/movieappfinal/">Movie App</a></h2>
+   
         </header>
     </div>
   
